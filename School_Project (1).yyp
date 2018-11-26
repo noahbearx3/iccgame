@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "2ef828a1-b7c2-4824-807b-8de20965febd",
+            "Value": {
+                "id": "a8ac1d9d-b809-4869-ac38-d0a17d13ea5e",
+                "resourcePath": "sprites\\collisionBlock\\collisionBlock.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a5af38c-757d-41ae-98c0-5d4b09e14e6a",
             "Value": {
                 "id": "b44e9ea5-0837-4f61-a115-22020bf2044a",
@@ -76,6 +84,14 @@
                 "id": "f0411ce6-3a0d-49cc-abd8-b8ec7fd7eb6f",
                 "resourcePath": "views\\4a44973e-9961-4492-a9de-370d71dde4ea.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "502220fd-259e-451e-b0b7-705e3337162a",
+            "Value": {
+                "id": "4a1267c4-4829-4083-a4a2-68c2c678a26e",
+                "resourcePath": "objects\\object2\\object2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,6 +167,14 @@
             }
         },
         {
+            "Key": "9b9fe8a6-5d78-4958-9158-e0f970110cdb",
+            "Value": {
+                "id": "319a8af7-0862-48bd-a2b5-91cdafc9a554",
+                "resourcePath": "objects\\obj_test\\obj_test.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "2b7ae76a-4cd3-4c1b-8a8f-967a9f764a13",
@@ -162,7 +186,7 @@
             "Key": "a7a5a475-e289-4e46-9fcf-ab2775e9f10e",
             "Value": {
                 "id": "74a1f620-01d2-4393-b313-0bd16ad645f9",
-                "resourcePath": "rooms\\room0\\room0.yy",
+                "resourcePath": "rooms\\room001\\room001.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -186,7 +210,7 @@
             "Key": "b9797cf4-ec5f-47e3-858b-fc9edf87a433",
             "Value": {
                 "id": "a11b8732-463d-4e82-b712-104b84833b5f",
-                "resourcePath": "sprites\\sprite2_test\\sprite2_test.yy",
+                "resourcePath": "sprites\\viewCollider\\viewCollider.yy",
                 "resourceType": "GMSprite"
             }
         },
