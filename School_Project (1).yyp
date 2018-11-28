@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "16afeb17-f809-4f77-a919-e0bb90aab7c2",
+            "Value": {
+                "id": "4f6d7156-2779-45c5-938e-6227dc6137fe",
+                "resourcePath": "sprites\\bg_brickwall\\bg_brickwall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "17c2d3a2-4bd0-4f4e-85b1-34b822645bb6",
             "Value": {
                 "id": "0f56565a-33f9-4976-863c-0dec93b5bbd1",
@@ -111,6 +119,14 @@
             }
         },
         {
+            "Key": "6d1c0db0-95d5-4f03-ae35-674bbc6067ad",
+            "Value": {
+                "id": "d6187ed0-abfe-4204-849e-0e185a46f17e",
+                "resourcePath": "extensions\\Basic_Platformer_Tiles\\Basic_Platformer_Tiles.yy",
+                "resourceType": "GMExtension"
+            }
+        },
+        {
             "Key": "6f11213e-6630-4130-bc86-65722ecd59fa",
             "Value": {
                 "id": "725f1375-22f9-42c2-ad62-6f3a7092fda3",
@@ -135,6 +151,14 @@
             }
         },
         {
+            "Key": "7838fc42-9a18-4a05-b365-8d20aedeb79e",
+            "Value": {
+                "id": "89f3496f-b74a-448e-9fa3-595d67261df8",
+                "resourcePath": "tilesets\\til_platformtiles_tileset\\til_platformtiles_tileset.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "7d39cbda-8462-47e5-817d-5c4babb3e700",
             "Value": {
                 "id": "33145714-e2f7-4ea0-8dd3-5738fe4c6da7",
@@ -151,6 +175,14 @@
             }
         },
         {
+            "Key": "7e2629d1-757e-4065-89f1-52166a8683c9",
+            "Value": {
+                "id": "b3c7e794-0fbc-4e24-abc0-9805c5f2c046",
+                "resourcePath": "views\\7e2629d1-757e-4065-89f1-52166a8683c9.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
             "Value": {
                 "id": "55badc6d-0341-4221-9a80-e09ae936fdd3",
@@ -164,6 +196,14 @@
                 "id": "2f2f3f8d-fd58-42ce-8f4d-fc8665930d5a",
                 "resourcePath": "options\\tvos\\options_tvos.yy",
                 "resourceType": "GMtvOSOptions"
+            }
+        },
+        {
+            "Key": "99e37868-226a-43f9-854d-58873951cd5d",
+            "Value": {
+                "id": "cd1eae95-418a-4c81-a82c-766c57b9fa09",
+                "resourcePath": "sprites\\til_platformtiles\\til_platformtiles.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
